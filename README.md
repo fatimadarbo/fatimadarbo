@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Fatima Darbo </h1>
-<h3 align="center">I'm a Cloud Security Engineer, Traveler, and Caffeholic!</h3>
+<h3 align="center">I'm a AWS DeVops Engineer Student at LUIT, Film fanatic and Caffeholic!</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimadarbo" alt="fatimadarbo" /></a> </p>
 
